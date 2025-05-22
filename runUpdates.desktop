@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Run Updates
+Comment=A script to run multiple updates
+Exec=pkexec su -c "/home/superuser/Skripte/Updates/runUpdates.sh"
+Icon=/home/superuser/Skripte/Updates/runUpdates.png
+Terminal=true
+Type=Application
+Categories=Utility;
