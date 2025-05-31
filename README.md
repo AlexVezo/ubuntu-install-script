@@ -2,7 +2,7 @@
 This repository contains files on how I would set up a Ubuntu image using a virtual machine. 
 It contains script files and user documentation for explaination.  
 
-The image is set up as VM; then export to image via command:
+The image is set up as VM; then export to image via command:  
 `VBoxManage clonehd vm.vdi image.img --format RAW` 
 
 # About install-ubuntu-software.sh
